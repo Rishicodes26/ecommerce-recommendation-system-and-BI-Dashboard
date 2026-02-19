@@ -52,5 +52,3 @@ This project demonstrates how transactional data can be transformed into actiona
 # 📂 Dataset
 
 Online Retail Dataset — publicly available transactional data.
-
-👨‍💻 Author - Debarshi Bhattacharya
